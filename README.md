@@ -7,7 +7,7 @@ git clone git@github.com:MycroftAI/mycroft-core.git
 cd mycroft-core
 ./build_host_setup_debian.sh
 ./dev_setup.sh
-(takes 20 minutes on x1)
+(Compiling Mimic takes time - it takes 20 minutes on Thinkpad Carbon x1)
 ```
 
 ## 2. Start
